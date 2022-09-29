@@ -1,0 +1,13 @@
+div#nav-link > a {
+  font-size: small;
+  font-weight: 600;
+  color: black;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+div#nav-link > a:hover {
+  background-color: darkorange;
+  color: white;
+  border-radius: 5px;
+}
